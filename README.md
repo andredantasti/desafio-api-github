@@ -62,3 +62,4 @@ None
 - Website - [Andre Dantas](https://github.com/andredantasti)
 - Frontend Mentor - [@andredantasti](https://www.frontendmentor.io/profile/andredantasti)
 - Instagram - [@andredantasti](https://www.instagram.com/andredantasti)
+- Linkdin - [Andre Dantas](https://www.linkedin.com/in/andre-dantas-84b370366/)
