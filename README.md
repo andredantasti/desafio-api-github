@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://andredantasti.github.io/desafio-api-github/)
 
 ## My process
 
@@ -62,4 +62,4 @@ None
 - Website - [Andre Dantas](https://github.com/andredantasti)
 - Frontend Mentor - [@andredantasti](https://www.frontendmentor.io/profile/andredantasti)
 - Instagram - [@andredantasti](https://www.instagram.com/andredantasti)
-- Linkdin - [Andre Dantas](https://www.linkedin.com/in/andre-dantas-84b370366/)
+- Linkedin - [Andre Dantas](https://www.linkedin.com/in/andre-dantas-84b370366/)
