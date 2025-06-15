@@ -1,47 +1,42 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>GitHub API - buscando usuários com fetch</title>
 
-    <link rel="stylesheet" href="src/css/reset.css">
-    <link rel="stylesheet" href="src/css/styles.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</head>
+    <link rel="stylesheet" href="src/css/reset.css" />
+    <link rel="stylesheet" href="src/css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
 
-<body>
+  <body>
     <main>
-        <i class="devicon-github-original"></i>
+      <i class="devicon-github-original"></i>
 
-        <section class="container">
-            <header>
-                <h2>Buscar Usuário</h2>
-                <input type="text" id="input-search" placeholder="Digite o nome do usuário no GitHub">
-                <input type="button" value="Buscar" id="btn-search">
-            </header>
+      <section class="container">
+        <header>
+          <h2>Buscar Usuário</h2>
+          <input
+            type="text"
+            id="input-search"
+            placeholder="Digite o nome do usuário no GitHub"
+          />
+          <input type="button" value="Buscar" id="btn-search" />
+        </header>
 
-            <div class="profile-data">
-                <section class="info">
-                    <img src="" alt="" id="avatar">
-                    <div class="nomeebio">
-                    <h1 id="name"></h1>
-                    <p id="bio"></p>
-                    </div>
-                </section>
-
-                <section class="repositories">
-                    <h2>Repositórios</h2>
-                    <ul id="lista"></ul>
-                </section>
-
-            </div>
-        </section>
+        <div class="profile-data"></div>
+      </section>
     </main>
 
     <script type="module" src="src/javascript/indexCorrecao.js"></script>
-</body>
-
+  </body>
 </html>
